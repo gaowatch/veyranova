@@ -6,7 +6,7 @@
 - **Author**: Yuanhui Gao (GitHub: @gaowatch)
 - **Version**: v1.0 (Concept Paper)
 - **GitHub Repository**: https://github.com/gaowatch/veyranova
-- **Paper PDF**: [bsp-v1.0-arXiv.pdf]](https://github.com/gaowatch/veyranova/blob/main/bsp-v1.0-arXiv.pdf)
+- **Paper PDF**: [bsp-v1.0-arXiv.pdf]](https://github.com/gaowatch/veyranova/blob/main/bsp-v1.0-arXiv.pdf)Due to PDF preview instability on GitHub, the full paper is provided as a ZIP package. Download and extract to view the complete PDF.
 - **Direct Access Link**: https://github.com/gaowatch/nekot/blob/main/bsp-v1.0-arXiv.pdf
 
 ### ✨ Core Innovations (Eliminate Coordinate Hallucination at Root)
