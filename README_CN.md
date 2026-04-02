@@ -6,7 +6,7 @@
 - **作者**：Yuanhui Gao (高沅会)(GitHub: @gaowatch)
 - **版本**：v1.0 (Concept Paper)
 - **GitHub仓库**：https://github.com/gaowatch/veyranova
-- **论文PDF**：[bsp-v1.0-arXiv.pdf](https://github.com/gaowatch/veyranova/blob/main/bsp-v1.0-arXiv.pdf)
+- **论文PDF**：[bsp-v1.0-arXiv.pdf](https://github.com/gaowatch/veyranova/blob/main/bsp-v1.0-arXiv.pdf)因GitHub PDF预览问题，论文已打包为ZIP压缩包，下载解压后即可查看完整PDF。
 
 ### ✨ 核心创新（根治坐标幻觉！）
 1.  **ElementMap 盲操作协议**：通过结构化元素映射，让纯文本LLM直接引用UIA元素ID定位GUI
