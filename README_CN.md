@@ -5,7 +5,7 @@
 - **论文标题**：Blind Spatial Protocol: Pure-Text LLM Desktop GUI Control via ElementMap and UIA Element ID
 - **作者**：Yuanhui Gao (高沅会)(GitHub: @gaowatch)
 - **版本**：v1.0 (Concept Paper)
-- **GitHub仓库**：https://github.com/gaowatch/nekot
+- **GitHub仓库**：https://github.com/gaowatch/veyranova
 - **论文PDF**：[bsp-v1.0-arXiv.pdf](https://github.com/gaowatch/veyranova/blob/main/bsp-v1.0-arXiv.pdf)
 
 ### ✨ 核心创新（根治坐标幻觉！）
